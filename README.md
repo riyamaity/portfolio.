@@ -1,30 +1,43 @@
 # 👩‍💻 Riya Maity - Software Developer Portfolio
 
 ## 🚀 About Me
-Aspiring Software Developer with a strong foundation in Core Java, SQL, Data Structures, and Object-Oriented Programming (OOP). Passionate about building efficient and scalable applications. Seeking opportunities to apply my technical skills in real-world projects.
-
+Software Application Developer with a strong foundation in Java, Data Structures and Algorithms,Object-Oriented
+Programming, SQL, and Database Management Systems. Experienced in building Java-based applications using
+JDBC and MySQL, with hands-on knowledge of software development, debugging, testing, and problem solving.
+Passionate about learning new technologies, writing clean and maintainable code, and collaborating within
+cross-functional teams to deliver reliable software solutions.
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java, Python  
+- **Languages:** Java, Python,SQL  
 - **Database:** MySQL  
-- **Core Concepts:** Data Structures & Algorithms, OOP, SDLC  
+- **Core Concepts:** Data Structures & Algorithms, OOP,Database Management System,Computer Network
+- **Software Development:**  JDBC,Software Development Life Cycle (SDLC),Debugging, Unit Testing,Code Quality
 - **Web Technologies:** HTML, CSS  
-- **Tools:** Git, IntelliJ IDEA, VS Code  
+- **Tools And IDEs:** Git,GitHub, IntelliJ IDEA, VS Code
+- **Soft Skills:** Communication, Team Collaboration, Problem Solving,Critical Thinking,Adaptability,Time
+Management,Self Motivated
 
 ---
 
-## 💼 Projects
+## 💼 Projects (Java + JDBC + MySQL)
 
-### 🏦 Bank Management System (Java + MySQL)
+### 🏦 Bank Management System 
 - Developed a Java-based application to automate banking operations  
 - Features: Account creation, deposit, withdrawal, fund transfer, transaction history  
 - Used **JDBC** for database connectivity  
 - Implemented **CRUD operations** using MySQL  
 - Applied **OOP principles** (Encapsulation, Inheritance)
 
----
+### Task Management System
+Developed a Task Management System using Java, JDBC, and MySQL to manage task creation,
+assignment, and tracking.
+Implemented CRUD operations using JDBC and MySQL while ensuring efficient data processing and
+code quality.
+Built features including task prioritization, due date management, status tracking, search, and filtering.
+Applied Object-Oriented Programming principles, exception handling, input validation, debugging, and
+testing to improve software quality and reliability
 
 ## 📊 Problem Solving
 
@@ -38,7 +51,7 @@ Aspiring Software Developer with a strong foundation in Core Java, SQL, Data Str
 
 - B.Tech (2022–2026)  
   Technocrats Institute of Technology, Bhopal  
-  CGPA: 8.15  
+  CGPA: 8.2  
 
 ---
 
