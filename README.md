@@ -10,10 +10,10 @@ cross-functional teams to deliver reliable software solutions.
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Java, Python,SQL  
+- **Languages:** Java,SQL  
 - **Database:** MySQL  
-- **Core Concepts:** Data Structures & Algorithms, OOP,Database Management System,Computer Network
-- **Software Development:**  JDBC,Software Development Life Cycle (SDLC),Debugging, Unit Testing,Code Quality
+- **Core Concepts:** Data Structures & Algorithms, OOP,Database Management System
+- **Software Development:**  JDBC,Software Development Life Cycle (SDLC),Debugging
 - **Web Technologies:** HTML, CSS  
 - **Tools And IDEs:** Git,GitHub, IntelliJ IDEA, VS Code
 - **Soft Skills:** Communication, Team Collaboration, Problem Solving,Critical Thinking,Adaptability,Time
